@@ -2,7 +2,7 @@
 #include <vector>
 #include <fstream>
 #include <list>
-using namespace std; // based on the alghorith by CoffeeBeforeArch.github.io
+using namespace std; // based on the alghorithm by CoffeeBeforeArch.github.io
 
 class Graph{
 private:
